@@ -1,0 +1,26 @@
+.formApp {
+  margin-top: 40px;
+  margin-right:150px;
+  margin-left:150px;
+  box-shadow: 0 4px 8px 0 rgba(64, 16, 236, 0.796);
+  box-sizing: content-box;
+  box-align: center;
+  transition: 0.3s;
+  
+}
+h2{
+  text-align: center;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+  color: blueviolet;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h4{
+  font-family: cursive;
+  text-align: center;
+  color: chocolate
+}
+body
+{
+  color: darkcyan;
+}
